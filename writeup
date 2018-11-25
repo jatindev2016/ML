@@ -1,0 +1,7 @@
+1.Pca gives accuracy equal to linear svm even with low number of components.
+2.Trainingf time is high in PCa  WHILE TEST TIME IS LOW IN 	PCA.
+3. Low negative loss,high macro_auc ,micro_auc in PCA.
+Accuracy linear svm
+----------------------------------------
+PCA---91.33(components=784)
+
